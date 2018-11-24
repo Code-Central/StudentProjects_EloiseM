@@ -1,0 +1,48 @@
+body{
+	   
+            background: 
+      rgb(26,198,204);
+}
+
+#para1{
+	text-align: center;
+	color: white;
+}
+.center {
+	text-align: center;
+	color: white;
+}
+#para2{
+	color: white;
+}
+ .navbar {
+ 	overflow: hidden;
+ 	background-color: #ffffff;
+ 	color: blue;
+ 	position: fixed;
+ 	top: 0;
+ 	width: 100%;
+ }
+
+ .navbar a {
+ 	float: left;
+ 	display: block;
+ 	color: #f2f2f2;
+ 	text-align: center;
+ 	padding: 14px 16px;
+ 	text-decoration: none;
+ 	font-size:17px;
+
+
+ }
+
+ .navbar a:hover {
+ 	background:#42d9f4;
+ 	color: blue;
+ }
+
+ .main {
+ 	padding: 16px;
+ 	margin-top:30px;
+ 	height: 1500px;
+ }
